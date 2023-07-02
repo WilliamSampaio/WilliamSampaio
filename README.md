@@ -3,8 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williambms)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WilliamBenjamim97)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamSampaio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSampaio&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamSampaio&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamSampaio&layout=compact&theme=dracula" />
+</a>
 
 ### Principais Habilidades
 
