@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamSampaio&layout=donut&theme=radical"/>
 </div>
 
-### Principais Habilidades
+### Main Skills
 
 <div style="display:inline_block;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
