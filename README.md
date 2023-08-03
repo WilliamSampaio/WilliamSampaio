@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williambms)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WilliamBenjamim97)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WilliamBenjamim97) -->
 
 <div style="display:in_block;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamSampaio&show_icons=true&theme=radical"/>
